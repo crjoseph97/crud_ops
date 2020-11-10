@@ -1,0 +1,20 @@
+
+# Binary
+*.exe
+.idea/
+*.iml
+tmp
+.vscode/
+debug
+
+# Log files
+*.log
+
+# Readme
+Readme.md
+
+# Configuration
+conf/conf.env
+
+# GitModules
+.gitmodules

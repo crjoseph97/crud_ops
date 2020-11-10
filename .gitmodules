@@ -1,0 +1,4 @@
+[submodule "modules/querybuilder"]
+	path = modules/querybuilder
+	url = git@git.hifx.in:lens/querybuilder.git
+	branch = master
