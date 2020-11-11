@@ -1,2 +1,0 @@
-FROM golang:1.14.2-stretch
-RUN go get -u github.com/v4run/bob
